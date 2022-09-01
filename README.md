@@ -10,6 +10,9 @@ INSTALLATION AND UPDATES MADE:
 MOTIVATION:
 The changes in the code were made to meet the accessibility standards.
 
+SCREEN SHOT OF HORISEON WEBSITE
+![image info](./Screenshot.png)
+
 LICENSES:
 The code has an MIT License.
 
