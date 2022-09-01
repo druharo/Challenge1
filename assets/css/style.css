@@ -3,27 +3,27 @@
     padding: 0;
     margin: 0;
 }
-
+/* Linked body to HTML semantic tag */
 body {
     background-color: #d9dcd6;
 }
-
+/* Linked header to HTML semantic tag */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* Linked header to HTML semantic tag */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* Linked header to HTML semantic tag */
 header h1 .seo {
     color: #d9dcd6;
 }
-
+/* Linked header and Nav to HTML semantic tag*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -187,11 +187,11 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* linked footer to HTML Semantic Tag */
 footer h2 {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
+    text-align:center;
     font-size: 20px;
 }
